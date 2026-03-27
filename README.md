@@ -5,7 +5,7 @@ Evidence-based technical solution advisor for AI agents. Multi-source cross-vali
 ## Install
 
 ```bash
-npx skills add pichaowei/solution
+npx skills add qq919006380/solution
 ```
 
 ## What It Does
